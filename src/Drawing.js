@@ -8,6 +8,7 @@ const Polyline = require('./Polyline');
 const Polyline3d = require('./Polyline3d');
 const Face = require('./Face');
 const Point = require('./Point');
+const Point3d = require('./Point3d');
 
 class Drawing
 {
@@ -70,6 +71,11 @@ class Drawing
     drawPoint(x, y)
     {
         this.activeLayer.addShape(new Point(x, y));
+        return this;
+    }
+    drawPoint3d(x, y, z)
+    {
+        this.activeLayer.addShape(new Point3d(x, y, z));
         return this;
     }
     
