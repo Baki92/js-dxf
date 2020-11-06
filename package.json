@@ -1,5 +1,5 @@
 {
-  "name": "dxf-writer",
+  "name": "balazs-dxf-writer",
   "version": "1.7.0",
   "description": "Dead simple 2D DXF writer",
   "main": "index.js",
@@ -13,19 +13,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ognjen-petrovic/js-dxf.git"
+    "url": "git+https://github.com/Baki92/js-dxf.git"
   },
   "keywords": [
     "DXF",
     "CAD",
     "AutoCAD"
   ],
-  "author": "Ognjen Petrovic",
+  "author": "Balazs Fodor",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ognjen-petrovic/js-dxf/issues"
+    "url": "https://github.com/Baki92/js-dxf/issues"
   },
-  "homepage": "https://github.com/ognjen-petrovic/js-dxf#readme",
+  "homepage": "https://github.com/Baki92/js-dxf/#readme",
   "devDependencies": {
     "browserify": "^16.2.3",
     "minimist": ">=1.2.3"
