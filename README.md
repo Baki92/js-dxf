@@ -4,7 +4,7 @@ Simple [DXF](https://en.wikipedia.org/wiki/AutoCAD_DXF) writer.
 
 ## Installing
 ```
-npm install dxf-writer
+npm install balazs-dxf-writer
 ```
 
 ## Node.js example
