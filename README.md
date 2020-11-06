@@ -45,6 +45,7 @@ Example preview in the LibreCAD:
  - polyline 3D 
  - text
  - 3DFace
+ - point 3D
  
 ## Supported colors: 
  - red
